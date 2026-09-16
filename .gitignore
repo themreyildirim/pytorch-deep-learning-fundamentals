@@ -1,0 +1,16 @@
+﻿# Data & Datasets
+data/
+*.zip
+*.tar.gz
+imagewoof200/
+kagglehub/
+
+# Checkpoints & Weights
+models/*.pth
+*.pt
+
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
